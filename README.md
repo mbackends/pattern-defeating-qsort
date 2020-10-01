@@ -1,8 +1,8 @@
-# Patter Defeating Quick Sort
+# Pattern Defeating Quick Sort
 
 ---
 
-Pattern-defeating quicksort combines the fast average case of randomized quicksort with the fast worst case of heapsort, while achieving linear time on inputs with certain patterns.
+Pattern Defeating quicksort combines the fast average case of randomized quicksort with the fast worst case of heapsort, while achieving linear time on inputs with certain patterns.
 Below are the algorithmics complexity.
 
     Best        Average     Worst       Memory      Stable      Deterministic
